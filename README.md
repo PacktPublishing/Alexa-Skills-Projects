@@ -43,7 +43,7 @@ buildSpeechletResponse = (outputText, shouldEndSession) => {
 **Following is what you need for this book:**
 Alexa Skills Projects is for individuals who want to understand the concept of Amazon Echo, Alexa, Google Home, and how they can be integrated with the Internet of Things to develop hands-on projects.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
 
 ### Software and Hardware List
 
