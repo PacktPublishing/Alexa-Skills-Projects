@@ -11,7 +11,7 @@ This is the code repository for [Alexa Skills Projects
 ## What is this book about?
 Amazon Echo is a smart speaker developed by Amazon, which connects to Amazon’s Alexa Voice Service and is entirely controlled by voice commands. Amazon Echo is currently being used for a variety of purposes such as home automation, asking generic queries, and even ordering a cab or pizza. 
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Understand how Amazon Echo is already being used in various domains
 * Discover how Alexa Skill is architected
 * Get a clear understanding of how some of the most popular Alexa Skills work
