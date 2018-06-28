@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "SendMessage",
+      "slots": [
+        {
+          "name": "Text",
+          "type": "MESSAGE"
+        }
+      ]
+    }
+  ]
+}

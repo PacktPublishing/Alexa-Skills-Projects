@@ -1,0 +1,3 @@
+OneShotFetchTemperatureIntent get ambient temperature
+OneShotFetchTemperatureIntent get room temperature
+OneShotFetchTemperatureIntent get temperature

@@ -1,0 +1,2 @@
+fetchPrice get the price of {currencyName}
+fetchPrice what is the price of {currencyName}

@@ -1,0 +1,37 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "hello world greeter",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GreetHelloWorld",
+                    "slots": [],
+                    "samples": [
+                        "Say Hi",
+                        "Say Hello",
+                        "Say Hello World",
+                        "Say Something",
+                        "Greet Us"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

@@ -1,0 +1,5 @@
+"Say Hi",
+"Say Hello",
+"Say Hello World",
+"Say Something",
+"Greet Us"

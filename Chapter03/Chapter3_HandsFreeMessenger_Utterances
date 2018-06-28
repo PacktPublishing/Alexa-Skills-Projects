@@ -1,0 +1,4 @@
+SendMessage send message {Text}
+SendMessage send {Text}
+SendMessage send sms {Text}
+SendMessage {Text}

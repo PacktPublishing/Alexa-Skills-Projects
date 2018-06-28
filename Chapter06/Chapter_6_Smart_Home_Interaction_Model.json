@@ -1,0 +1,35 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "ambience manager",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "OneShotFetchTemperatureIntent",
+                    "slots": [],
+                    "samples": [
+                        "OneShotFetchTemperatureIntent get ambient temperature",
+                        "OneShotFetchTemperatureIntent get room temperature",
+                        "OneShotFetchTemperatureIntent get temperature"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "cryptooracle",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "fetchPrice",
+                    "slots": [
+                        {
+                            "name": "currencyName",
+                            "type": "CURRENCY_NAME"
+                        }
+                    ],
+                    "samples": [
+                        "fetchPrice get the price of {currencyName}",
+                        "fetchPrice what is the price of {currencyName}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "CURRENCY_NAME",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "Cardano"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Tron"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Dash"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Monero"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Ethereum"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Litecoin"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "Bitcoin"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
