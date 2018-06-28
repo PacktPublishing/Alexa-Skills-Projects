@@ -64,7 +64,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/AlexaSkillsProjects_ColorImages.pdf).
 
 ### Related products
-* Hands-On Chatbots and Conversational UI Development [[Packt]](https://www.packtpub.com/application-development/hands-chatbots-and-conversational-ui-development?utm_source=github&utm_medium=repository&utm_campaign=9781788294669) [[Amazon]](https://www.amazon.com/dp/	1788294661)
+* Hands-On Chatbots and Conversational UI Development [[Packt]](https://www.packtpub.com/application-development/hands-chatbots-and-conversational-ui-development?utm_source=github&utm_medium=repository&utm_campaign=9781788294669) [[Amazon]](https://www.amazon.com/dp/1788294661)
 
 * Building Bots with Microsoft Bot Framework [[Packt]](https://www.packtpub.com/application-development/building-bots-microsoft-bot-framework?utm_source=github&utm_medium=repository&utm_campaign=9781786463104) [[Amazon]](https://www.amazon.com/dp/1786463105)
 
