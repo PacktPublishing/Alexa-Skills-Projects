@@ -55,9 +55,9 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Hardware required                  
 | -------- | ------------------------------------
-| 2-5      | Java/JDK                            
-|          |Visual Studio Code                   
-|          | Android Studio                      
+| 2-5      |Amazon Echo Dot                            
+|          |Ambient Sensor – Texas Instruments CC2650 STK                  
+|          |Any Android Phone with OS version 5.0 or upwards                     
 
 
 
