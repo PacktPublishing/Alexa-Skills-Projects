@@ -70,7 +70,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Madhur Bhargava**
-Madhur Bhargava is specialized in Wireless and Mobile Computing from CDAC ACTS
+is specialized in Wireless and Mobile Computing from CDAC ACTS
 Pune, India. He started his career at Electronic Arts as a software engineer working on
 mobile games and eventually moved on to address problems in personalized healthcare,
 leveraging the power of mobile and voice computing. He is proficient in various
