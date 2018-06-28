@@ -49,24 +49,20 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | Java/JDK                    | Windows, Mac OS X, and Linux (Any) |
-| 2        |Visual Studio Code                   | Windows, Mac OS X, and Linux (Any) |
-| 3        | Android Studio                      | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 2-5      | Java/JDK                            | Windows, Mac OS X, and Linux (Any) |
+|          |Visual Studio Code                   | Windows, Mac OS X, and Linux (Any) |
+|          | Android Studio                      | Windows, Mac OS X, and Linux (Any) |
+
+| Chapter  | Hardware required                  
+| -------- | ------------------------------------
+| 2-5      | Java/JDK                            
+|          |Visual Studio Code                   
+|          | Android Studio                      
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/AlexaSkillsProjects_Color
+Images.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
@@ -74,11 +70,16 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
+**Madhur Bhargava**
+Madhur Bhargava is specialized in Wireless and Mobile Computing from CDAC ACTS
+Pune, India. He started his career at Electronic Arts as a software engineer working on
+mobile games and eventually moved on to address problems in personalized healthcare,
+leveraging the power of mobile and voice computing. He is proficient in various
+mobile/embedded technologies and strives to be a software generalist. He believes that
+good software is a result of talented individuals working together as a communicative team
+in an Agile manner. Apart from work, he likes to spend time with family, read, and watch
+movies.
 
-**Author Name**
-Bio
 
 
 ## Other books by the authors
