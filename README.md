@@ -63,10 +63,10 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/AlexaSkillsProjects_ColorImages.pdf).
 
-### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+### Related products
+* Hands-On Chatbots and Conversational UI Development [[Packt]](https://www.packtpub.com/application-development/hands-chatbots-and-conversational-ui-development?utm_source=github&utm_medium=repository&utm_campaign=9781788294669) [[Amazon]](https://www.amazon.com/dp/	1788294661)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Building Bots with Microsoft Bot Framework [[Packt]](https://www.packtpub.com/application-development/building-bots-microsoft-bot-framework?utm_source=github&utm_medium=repository&utm_campaign=9781786463104) [[Amazon]](https://www.amazon.com/dp/1786463105)
 
 ## Get to Know the Author
 **Madhur Bhargava**
@@ -81,9 +81,8 @@ movies.
 
 
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+## Other books by the author
+* [IoT Projects with Bluetooth Low Energy](https://www.packtpub.com/hardware-and-creative/iot-projects-bluetooth-low-energy?utm_source=github&utm_medium=repository&utm_campaign=9781788399449)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
