@@ -1,6 +1,6 @@
 # Alexa Skills Projects
 
-<a href="https://www.packtpub.com/hardware-and-creative/alexa-skills-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997256"><img src="Cover Image URL of the Book" alt="Alexa Skills Projects
+<a href="https://www.packtpub.com/hardware-and-creative/alexa-skills-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997256"><img src="https://www.packtpub.com/sites/default/files/B09989.png" alt="Alexa Skills Projects
 " height="256px" align="right"></a>
 
 This is the code repository for [Alexa Skills Projects
